@@ -1,0 +1,14 @@
+{
+    "perlbrew-for-mac" : {
+        "title" : "MAC에서 perlbrew사용하기",
+        "category": "programming",
+        "author" : {
+            "email": "skyloader@gmail.com",
+            "name": "Jaemin Choi",
+            "nick": "skyloader"
+        },
+        "date" : 1372333042,
+        "tags" : [ "perl","MAC","perlbrew"],
+        "content": "/home/skyloader/blog/2013-11-06.mkd"
+    }
+}
